@@ -1,0 +1,24 @@
+{
+  "name": "gemini-project-ac0bdd4d-812e-4f22-b8c9-854271d3ac2f",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build --turbopack",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@types/chess.js": "^0.13.7",
+    "chess.js": "^1.4.0",
+    "chessboardjsx": "^2.4.7",
+    "next": "15.5.4",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5"
+  }
+}
